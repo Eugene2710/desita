@@ -3,6 +3,7 @@ import { FaBars, FaTwitter, FaLinkedin } from 'react-icons/fa'
 import logo from '../logo.svg'
 import {links, social} from '../data'
 
+
  const Navbar = () => {
     const [showLinks, setShowLinks] = useState(false)
 

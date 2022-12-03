@@ -18,7 +18,7 @@ function Home() {
         <h1>DESITA</h1>
         <h3>v1.0</h3>
         <h3>Desita means joy in Amharic, the lingua franca of Ethiopia - the widely recognized birthplace of the magic beans which have provided me with joy. Great joy.</h3>
-        <Cruler/>
+        {/* <Cruler/> */}
       </div></>
     /*
       1) convert dpi to pixels
