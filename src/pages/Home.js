@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../logo.svg';
 import '../App.css';
-import styled from 'styled-components'
+// import styled from 'styled-components'
 import Navbar from '../components/Navbar';
 import Cruler from './Cruler';
 
@@ -17,7 +17,8 @@ function Home() {
         
         <h1>DESITA</h1>
         <h3>v1.0</h3>
-        <h3>Desita means joy in Amharic, the lingua franca of Ethiopia - the widely recognized birthplace of the magic beans which have provided me with joy. Great joy.</h3>
+        <h3>Hoping to brew something cool here</h3>
+        <h4>For now, check out the Cruler!</h4>
         {/* <Cruler/> */}
       </div></>
     /*
